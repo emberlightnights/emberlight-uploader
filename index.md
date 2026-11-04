@@ -18,6 +18,6 @@ Emberlight Nights Uploader is a private, single-operator desktop tool used by th
 
 ## Operator
 
-Operated by the owner of the Emberlight Nights YouTube channel. Contact: **[email]**
+Operated by the owner of the Emberlight Nights YouTube channel. Contact: **emberlightnights@gmail.com**
 
 [Privacy Policy](privacy.md) · [Terms of Service](terms.md)
