@@ -30,4 +30,4 @@ The tool is a desktop application and does not use cookies. This website does no
 
 ## Contact
 
-Questions about this policy: **[email]**
+Questions about this policy: **emberlightnights@gmail.com**
