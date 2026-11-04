@@ -7,4 +7,4 @@
 3. **Content.** All videos uploaded with the tool are original works created by the operator. The operator is solely responsible for the content, its metadata and its compliance with YouTube's Community Guidelines and monetization policies.
 4. **Data.** The tool's handling of data is described in the [Privacy Policy](privacy.md).
 5. **Changes.** These terms may be updated; the current version is always published at this address.
-6. **Contact.** **[email]**
+6. **Contact.** **emberlightnights@gmail.com**
